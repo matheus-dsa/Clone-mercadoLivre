@@ -13,4 +13,3 @@ You can access it with this [link.](https://mercadolivre-rhuanbello.vercel.app/)
 
 ---
 
-Desenvolvido com 💛 por Rhuan Bello 👁️‍🗨️
